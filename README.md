@@ -1,6 +1,4 @@
 # Gaia_et_al_2022_Cerebral_Cortex
-Gaia et al. (2022) Estimated gray matter volume rapidly changes after a short motor task. Cerebral Cortex
-
 Olivo, G., Lövdén, M., Manzouri, A., Terlau, L., Jenner, B., Jafari, A., Petersson, S., Li, T.-Q., Fischer, H., & Månsson, K. N. T. (2022). Estimated Gray Matter Volume Rapidly Changes after a Short Motor Task. Cerebral Cortex . https://doi.org/10.1093/cercor/bhab488
 
 Abstract
